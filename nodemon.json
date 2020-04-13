@@ -1,0 +1,7 @@
+{
+    "env" : {
+        "MONGO_USER" :"zevo-tech",
+        "MONGO_PASS" :"targetFIXED08@",
+        "MONGO_DB" : "Zevo Practice"
+    }
+}
